@@ -10,4 +10,4 @@ class Main {
     System.out.println(first + " + " + second + " = "  + sum);
   }
 }
-END
+END OF THE CODE
